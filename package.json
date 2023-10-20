@@ -1,0 +1,24 @@
+{
+  "name": "cli-cms",
+  "version": "1.0.0",
+  "description": "Content Management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColumbiaCoding/noslackerTracker"
+  },
+  "author": "Gabriel Regus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColumbiaCoding/noslackerTracker/issues"
+  },
+  "homepage": "https://github.com/ColumbiaCoding/noslackerTracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.4.2",
+    "console.table": "0.10.0"
+  }
+}
